@@ -1,10 +1,12 @@
-# Achilles 
+# Achilles   
 
-**Main idea**
-1. CNN
-2. Dilated Convolution
-3. Ensemble with RandomForest
+*Experimental project*  
 
-**framework** Tensorflow
+**Main idea**  
+1. CNN  
+2. Dilated Convolution  
+3. Ensemble with RandomForest  
 
-**feature extractor** Not determined
+**framework** Tensorflow  
+
+**feature extractor** Not determined  
